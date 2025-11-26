@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VisionCore")(type "KiCad")(uri "${KIPRJMOD}/Library/Symbols/VisionCore.kicad_sym")(options "")(descr ""))
+)

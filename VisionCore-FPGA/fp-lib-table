@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VisionCore")(type "KiCad")(uri "${KIPRJMOD}/VisionCore.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/VisionCore.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "VisionCr")(type "KiCad")(uri "${KIPRJMOD}/Library/VisionCr.pretty")(options "")(descr ""))
+)

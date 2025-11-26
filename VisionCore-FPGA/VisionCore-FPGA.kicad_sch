@@ -1,0 +1,401 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a00f6c2a-5380-44ca-beaf-85a9260a838e")
+	(paper "A3")
+	(title_block
+		(date "2025-11-24")
+	)
+	(lib_symbols)
+	(sheet
+		(at 91.44 188.595)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "1ed90f22-d77d-4635-a6e0-f42acdf7c04c")
+		(property "Sheetname" "USB"
+			(at 109.347 205.105 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "ETH_PHY.kicad_sch"
+			(at 91.44 226.0834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 102.87)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "235f43f9-a7d9-4934-a06e-f4917454b86c")
+		(property "Sheetname" "HDMI Receiver"
+			(at 94.615 118.237 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "HDMI_IN.kicad_sch"
+			(at 91.44 140.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 262.89 101.6)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "4bb3691e-0d33-477d-bdf1-ee8e2d582c80")
+		(property "Sheetname" "HDMI Transceiver"
+			(at 267.716 117.348 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 3 3)
+					(thickness 0.6)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "HDMI_OUT.kicad_sch"
+			(at 262.89 139.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 43.18)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "a6d95ef6-d446-456f-a7a7-c69951fb75fb")
+		(property "Sheetname" "DDR4"
+			(at 191.77 57.912 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "DDR4.kicad_sch"
+			(at 177.8 80.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 98.425)
+		(size 39.37 135.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "c4cba5c4-02e9-4476-b03f-8d095361233d")
+		(property "Sheetname" "Connectors"
+			(at 21.844 154.813 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "HDMI_IN.kicad_sch"
+			(at 19.05 135.9134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.415 16.51)
+		(size 78.105 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 74 209 61 1.0000)
+		)
+		(uuid "d3300ddd-50c8-41d8-b888-ffcb8d3e5217")
+		(property "Sheetname" "Block diagrams"
+			(at 26.543 31.242 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "BLDIAG.kicad_sch"
+			(at 18.415 53.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 145.415)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "e208f7ba-4812-4d92-9664-f179b678926c")
+		(property "Sheetname" "Ethernet PHY"
+			(at 99.568 162.052 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 4 4)
+					(thickness 0.8)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "ETH_PHY.kicad_sch"
+			(at 91.44 182.9034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 100.33)
+		(size 50.165 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(color 0 175 175 1.0000)
+		)
+		(uuid "f6ab032a-6c78-4e23-9594-c74703156bb8")
+		(property "Sheetname" "FPGA"
+			(at 194.31 115.824 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(face "Arial")
+					(size 5 5)
+					(thickness 0.8)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left top)
+			)
+		)
+		(property "Sheetfile" "FPGA.kicad_sch"
+			(at 179.07 137.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "VisionCore-FPGA"
+				(path "/a00f6c2a-5380-44ca-beaf-85a9260a838e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
