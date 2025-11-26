@@ -15,7 +15,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "XCZU4EV-1SFVC784E"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23,7 +23,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "VisionCr:XCZU4EV-1SFVC784E"
 			(at 0 0 0)
 			(effects
 				(font
