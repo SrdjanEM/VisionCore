@@ -648,6 +648,10 @@
     [
       "1ed90f22-d77d-4635-a6e0-f42acdf7c04c",
       "USB"
+    ],
+    [
+      "fe70e424-c29f-4d59-8190-aca5c3008f33",
+      "PS FPGA"
     ]
   ],
   "text_variables": {}
